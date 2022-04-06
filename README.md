@@ -2,8 +2,7 @@
 
 ![](./src//gif/library-app.gif)
 
-You can go to the website using the link
-[library-app](https://mustafahincal.github.io/)
+Here's how it looks in Vercel : [To Do App](https://react-library-fuew32dd0-mustafahincal.vercel.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
