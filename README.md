@@ -1,8 +1,8 @@
 # Library App
 
-![](./src//gif/library-app.gif)
+![](./src//gif/library.gif)
 
-Here's how it looks in Vercel : [Library App](https://react-library-fuew32dd0-mustafahincal.vercel.app)
+Here's how it looks in Vercel : [Library App](https://react-library-app.vercel.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
