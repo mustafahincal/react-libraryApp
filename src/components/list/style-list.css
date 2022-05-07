@@ -1,0 +1,28 @@
+.container {
+   width: 800px;
+   margin: auto;
+   text-align: center;
+   padding: 70px;
+}
+
+.list {
+   margin-top: 50px;
+}
+.list-item {
+   text-align: left;
+   display: flex;
+   flex-direction: column;
+   padding: 15px 25px;
+   margin-bottom: 15px;
+}
+.list-item:hover {
+   box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.1);
+}
+.book {
+   color: crimson;
+   margin-bottom: 6px;
+}
+.author {
+   font-size: 17px;
+   color: rgb(78, 78, 78);
+}

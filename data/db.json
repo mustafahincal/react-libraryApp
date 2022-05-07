@@ -1,0 +1,16 @@
+{
+   "books": [
+      {
+         "book": "Suç ve Ceza",
+         "author": "Dostoyevski"
+      },
+      {
+         "book": "Kürk Mantolu Madonna",
+         "author": "Sabahattin Ali"
+      },
+      {
+         "book": "Küçük Prens",
+         "author": "Antoine de Saint-Exupéry"
+      }
+   ]
+}
