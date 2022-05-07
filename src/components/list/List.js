@@ -26,7 +26,7 @@ function List({ books }) {
                {filtered.map((book, index) => (
                   <li className="list-item" key={index}>
                      <h2 className="book">{book.book}</h2>
-                     <p className="author">{book.author} tarafından yazıldı</p>
+                     <p className="author">{book.author}</p>
                   </li>
                ))}
             </ul>
