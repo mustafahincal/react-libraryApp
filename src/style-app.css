@@ -54,3 +54,13 @@ input {
    color: crimson;
    font-size: 35px;
 }
+
+@media (max-width: 820px) {
+   .navbar {
+      justify-content: space-between;
+      padding: 20px 50px;
+   }
+   input {
+      width: 100%;
+   }
+}

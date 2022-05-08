@@ -17,3 +17,13 @@ button:hover {
    background-color: #333;
    color: #fff;
 }
+
+@media (max-width: 820px) {
+   #form {
+      width: 100%;
+   }
+   form {
+      width: 80%;
+      margin: auto;
+   }
+}

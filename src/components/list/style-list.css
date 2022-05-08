@@ -26,3 +26,12 @@
    font-size: 17px;
    color: rgb(78, 78, 78);
 }
+
+@media (max-width: 820px) {
+   #form {
+      width: 100%;
+   }
+   .container {
+      width: 100%;
+   }
+}
